@@ -2,7 +2,7 @@ import { Input } from "antd";
 const { Search } = Input;
 import { Link } from "react-router-dom";
 
-const Blog = () => {
+const Blogs = () => {
   return (
     <div className="w-[50%] h-[100vh] m-auto">
       <b className="text-[40px]">Blog</b>
@@ -21,7 +21,7 @@ const Blog = () => {
         placeholder="input search text"
         enterButton
       />
-      <Link className="w-full">
+      <Link to={"/blogs/1"} className="w-full">
         <div className="flex flex-col gap-[10px] relative">
           <b className="text-[30px]">My Story</b>
           <p className="text-[20px] text-semibold">
@@ -34,4 +34,4 @@ const Blog = () => {
   );
 };
 
-export default Blog;
+export default Blogs;
