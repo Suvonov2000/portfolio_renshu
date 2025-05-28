@@ -44,7 +44,7 @@ const Blog = () => {
       <div className="w-[800px] h-[120px] rounded-[4px] border border-solid mt-10 m-auto">
         <h1 className="text-[20px] font-semibold p-6">
           Subcribe to telegram Channel{" "}
-          <a href="https//t.me/suvonov_umidjon" className="text-blue-500">
+          <a href="https://t.me/suvonov_umidjon" className="text-blue-500">
             @suvonov_umidjon
           </a>{" "}
           where i share my thoughts, articles, talks and more.

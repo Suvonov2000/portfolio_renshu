@@ -54,6 +54,15 @@ const About = () => {
         alias, ratione illum odit provident ipsam iste reprehenderit
         dignissimos!
       </p>
+      <br />
+      <p className="text-[20px] text-semibold">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae
+        consectetur reiciendis rerum ab sequi quibusdam ratione hic ullam quia
+        fugiat non facilis reprehenderit quis nobis in quae, dolorum, natus
+        minus eius saepe? Eum, laudantium doloremque consequatur aspernatur iste
+        saepe quod. Enim aliquid pariatur ipsam omnis vitae officiis, labore
+        optio molestias!
+      </p>
     </div>
   );
 };
