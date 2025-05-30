@@ -4,7 +4,7 @@ const Blog = () => {
       <b className="text-[40px]">My Blog</b>
       <div className="flex items-center justify-between mt-7 mb-7">
         <b className="text-[20px]">Suvonov Umidjon / March, 2025</b>
-        <h1 className="text-[20px] text-base ">Jun,2020-Sep,2022</h1>
+        <h1 className="text-[20px] text-base ">may,2025-june,2025</h1>
       </div>
       <div>
         <p className="text-[20px] font-semibold">
