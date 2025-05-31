@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Blogs = () => {
   return (
     <div className="w-[50%] h-[100vh] m-auto">
-      <b className="text-[40px]">Blog</b>
+      <b className="text-[40px] bold">Blog</b>
       <p className="text-[20px] mt-[50px] text-semibold">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem,
         repellat cupiditate? Suscipit vero excepturi blanditiis maiores nostrum
