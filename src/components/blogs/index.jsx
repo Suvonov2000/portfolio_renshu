@@ -25,7 +25,7 @@ const Blogs = () => {
         <div className="flex flex-col gap-[10px] relative">
           <b className="text-[30px]">My Story</b>
           <p className="text-[20px] text-semibold">
-            How I became Software Engineer!
+            How I became Software Engineer ?
           </p>
           <p className="absolute right-0 top-1 text-[20px]">31May,2025</p>
         </div>
